@@ -12,3 +12,4 @@ spec:
     git:
       url: https://github.com/mmorhun/dev-docker-file-search
       context: go-component
+      dockerfileUrl: root-docker/Dockerfile
